@@ -1,0 +1,33 @@
+.yasi1 {
+    text-align: center;
+    border: 5px solid;
+    height: max-content;
+    max-width: 100%;
+    padding: 100px;
+    margin: 10px;
+}
+
+.yasi2 {
+    text-align: center;
+    width: 10%;
+}
+
+.yasi3 {
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.bg1 {
+    background: url('https://i.pinimg.com/originals/60/22/52/602252b4b408f8b8902c94868e6f3ced.jpg');
+    width: 100%;
+    height: 150vh;
+    background-size: cover;
+
+}
+.yasi6{
+    font-size: 13px;
+}
+.yasi7{
+    font-size: 15px;
+}
